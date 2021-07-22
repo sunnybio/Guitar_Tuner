@@ -12,4 +12,4 @@ then finding the frequency with max magnitude we know the note closest to the fr
 
 
 
-![](tuner.jpg) 
+![](tuner.png) 
